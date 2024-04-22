@@ -8,9 +8,9 @@
                         
 ### My Skill Set
 
-<h1 align = "center">![](https://github-readme-stats.vercel.app/api?username=MonsterFanSec&show_icons=true&theme=transparent)</h1>
+![](https://github-readme-stats.vercel.app/api?username=MonsterFanSec&show_icons=true&theme=transparent#pic_center)
 
-<h1 align = "center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterFanSec&layout=compact&theme=tokyonight)</h1>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterFanSec&layout=compact&theme=tokyonight#pic_center)
 
 
 
