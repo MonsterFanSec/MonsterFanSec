@@ -8,8 +8,9 @@
                         
 ### My Skill Set
 
-![](https://github-readme-stats.vercel.app/api?username=MonsterFanSec&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterFanSec&layout=compact&theme=tokyonight)
+<center>![](https://github-readme-stats.vercel.app/api?username=MonsterFanSec&show_icons=true&theme=transparent)</center>
+
+<center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterFanSec&layout=compact&theme=tokyonight)</center>
 
 
 
