@@ -4,12 +4,18 @@
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me by Email: sec.fan@qq.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/monster663)
+- ⚡ Fun fact: ...
                         
 ### My Skill Set
 
 ![](https://github-readme-stats.vercel.app/api?username=MonsterFanSec&show_icons=true&theme=transparent)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterFanSec&layout=compact&theme=tokyonight)
+
+
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=MonsterFanSec&theme=dracula)
+
 
 
 <!--
